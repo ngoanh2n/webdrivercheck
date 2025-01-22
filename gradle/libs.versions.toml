@@ -5,7 +5,7 @@
 commons        = "1.7.0"
 selenium       = "4.27.0"
 appium         = "9.3.0"
-selenide       = "7.7.0"
+selenide       = "7.7.1"
 slf4j          = "2.0.16"
 testng         = "7.10.2"
 junit-jupiter  = "5.11.4"
